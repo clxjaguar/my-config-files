@@ -1,0 +1,34 @@
+[$Version]
+update_info=kcalcrc.upd:KDE_3_2_0,kcalcrc.upd:KDE_4_3_0
+
+[Colors]
+BackColor=138,226,52
+CurrentPalette=Forty Colors
+FunctionButtonsColor=252,233,79
+HexButtonsColor=114,159,207
+MemoryButtonsColor=136,138,133
+NumberButtonsColor=211,215,207
+StatButtonsColor=239,41,41
+
+[Font]
+ButtonFont=DejaVu Sans,9,-1,5,50,0,0,0,0,0
+DisplayFont=DejaVu Sans,16,-1,5,75,0,0,0,0,0
+
+[General]
+CalculatorMode=science
+ShowBitset=true
+groupdigits=false
+
+[UserConstants]
+nameConstant0=π
+nameConstant1=c
+nameConstant2=μ₀
+nameConstant3=ε₀
+nameConstant4=e
+nameConstant5=φ
+valueConstant0=3.14159265358979323846264338327950288419
+valueConstant1=2.99792458e8
+valueConstant2=1.2566370614e-6
+valueConstant3=8.854187817e-12
+valueConstant4=2.71828182845904523536028747135266249775
+valueConstant5=1.61803398874989484820458683436563811
